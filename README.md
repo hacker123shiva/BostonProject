@@ -15,3 +15,11 @@ python -m venv venv
 venv/Scripts/Activate.bat
 then select intrepreter 3.10.5
 ```
+
+Contributors
+---
+Shiva Srivastava
+Muskan Garg
+Kirtikaa Sharma
+Ananya Agarwal
+---
